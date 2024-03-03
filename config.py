@@ -1,2 +1,2 @@
-api_key = 'AIzaSyBKFYUc0NQnSTGjnXCAvyYVAqvRjfqkHhM'
-cse_id = 'b4b20bbffb62d4ec4'
+api_key = 'your-api'
+cse_id = 'your-api'
